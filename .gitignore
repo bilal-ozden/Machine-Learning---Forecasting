@@ -1,0 +1,16 @@
+# Temporary files and folders
+Temp/
+.temp/
+*.tmp
+
+# Instruction files
+.github/instructions/
+*.instructions.md
+
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
